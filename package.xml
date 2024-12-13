@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Meta>
+	<title>Panda's Feat Book Mod</title>
+	<id>Mod_PandaFeatBookMod</id>
+	<author>Now Happy Panda</author>
+	<tags>General,Cheat</tags>
+	<loadPriority>100</loadPriority>
+	<description>
+		Allow unlimited feat points from Secret Experience of Kumiromi without limit of 5
+	</description>
+	<version>0.23.55</version>
+</Meta>
